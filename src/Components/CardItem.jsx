@@ -6,7 +6,7 @@ const CardItem = ({ cards }) => {
       {cards.map((card) => (
         <div
           key={card.id}
-          className="bg-white shadow-lg rounded-lg p-6 border border-gray-200"
+          className="bg-white shadow-lg rounded-lg p-6 border border-gray-300"
         >
           <h4 className="text-gray-500 text-sm font-semibold">#{card.id}</h4>
           <h1 className="text-lg font-bold text-gray-800 mb-2">{card.title}</h1>
