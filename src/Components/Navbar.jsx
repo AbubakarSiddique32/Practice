@@ -25,7 +25,7 @@ const Navbar = () => {
               Home
             </a>
             <a className="mr-5 hover:text-gray-900 cursor-pointer hover:font-bold">
-              Blogs
+              Sections
             </a>
             <a className="mr-5 hover:text-gray-900 cursor-pointer hover:font-bold">
               About Us
